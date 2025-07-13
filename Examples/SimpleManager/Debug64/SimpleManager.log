@@ -1,0 +1,3 @@
+﻿  SimpleManager.cpp
+D:\MetaTrader5SDK\Examples\Manager\SimpleManager\SimpleManager.cpp(44,26): warning C4101: 'strapi': unreferenced local variable
+  SimpleManager.vcxproj -> D:\MetaTrader5SDK\Examples\Manager\SimpleManager\Debug64\SimpleManager64.exe
